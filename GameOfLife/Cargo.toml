@@ -1,0 +1,9 @@
+[package]
+name = "GameOfLife"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+egui = "0.27"
+eframe = "0.27"
+rand = "0.8"
